@@ -12,7 +12,7 @@ Need To do before running
 
 for any help reach me in telegram DM @znuxi
 
-_____________________  The code has been tested, but there are risks when downloading. Run the code and use it at your own risk
+__________________ The code has been tested, but there are risks when downloading. Run the code and use it at your own risk
 
 تم إنشاء وتعديل هذا السكربت باستخدام الذكاء الاصطناعي لتعزيز وظائفه.يسمح للمستخدمين بإرسال رسالة مباشرة إلى بوت التليجرام باستخدام اسم الفيلم. يقوم السكريبت بقراءة أي كلمات يتلقاها والبحث عنها على مواقع التورنت، مع تنزيل الفيلم تلقائيًا وإضافته إلى مكتبة الأفلام.
 
